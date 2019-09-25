@@ -1,5 +1,5 @@
 # Pacman-Arduino-LiquidCrystal
-Displaying Pacman eating the balls row-wise on the lcd screen
+//Displaying Pacman eating the balls row-wise on the lcd screen
 
 
 // include the library code:
